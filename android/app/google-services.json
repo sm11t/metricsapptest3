@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666610701996",
+    "project_id": "metricsapptest3",
+    "storage_bucket": "metricsapptest3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666610701996:android:f6cb815ed15ce6d9c7f109",
+        "android_client_info": {
+          "package_name": "com.metricsapptest3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGNUEd8LD3IC2TI5dRhFNnwvNiL4oscj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
