@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0",
     "react": "18.2.0",
     "react-native": "0.73.8",
     "react-native-google-fit": "^0.21.0"
